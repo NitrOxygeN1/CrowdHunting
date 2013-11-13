@@ -1,0 +1,14 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\bin\Debug\Proxies.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\BusinessLayer\bin\Debug\Proxies.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\bin\Debug\Proxies.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\bin\Debug\Proxies.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.pdb

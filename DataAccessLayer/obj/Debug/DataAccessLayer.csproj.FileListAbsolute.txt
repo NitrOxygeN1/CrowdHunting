@@ -1,0 +1,5 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

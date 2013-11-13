@@ -1,0 +1,16 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PreDeployment.sql
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PostDeployment.sql
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlsettings
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqldeployment
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlcmdvars
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.deploymanifest
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.dbschema
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DatabaseProject\obj\Debug\DatabaseProject.dbschema
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PreDeployment.sql
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PostDeployment.sql
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlsettings
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqldeployment
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlcmdvars
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.deploymanifest
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.dbschema
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\obj\Debug\DatabaseProject.dbschema

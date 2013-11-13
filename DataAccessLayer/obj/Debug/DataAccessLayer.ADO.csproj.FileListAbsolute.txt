@@ -1,0 +1,14 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.ADO.csprojResolveAssemblyReference.cache
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\Proxies\bin\Debug\Proxies.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\Proxies\bin\Debug\Proxies.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\Proxies\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\Proxies\obj\Debug\Proxies.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\Proxies\obj\Debug\Proxies.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\bin\Debug\Proxies.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\bin\Debug\Proxies.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\obj\Debug\Proxies.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\obj\Debug\Proxies.pdb

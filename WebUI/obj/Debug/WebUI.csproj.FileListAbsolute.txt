@@ -1,0 +1,9 @@
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\WebUI\bin\WebUI.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\WebUI\bin\WebUI.pdb
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\WebUI\obj\Debug\WebUI.dll
+C:\Documents and Settings\ponomarev_e_s\CrowdHunting\WebUI\obj\Debug\WebUI.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\bin\WebUI.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\bin\WebUI.pdb
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\obj\Debug\WebUI.dll
+C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\obj\Debug\WebUI.pdb
