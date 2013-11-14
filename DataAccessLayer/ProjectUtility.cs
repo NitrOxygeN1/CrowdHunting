@@ -51,9 +51,7 @@ namespace DataAccessLayer
             command.Parameters.Add(new SqlParameter("GitHub_url", project.GitHub_url));
             command.Parameters.Add(new SqlParameter("UserID", project.UserID));
 
-            var adapter = new SqlDataAdapter(command);
-            var dataSet = new DataSet();
-            adapter.Fill(dataSet);
+            command.ExecuteNonQuery();
         }
 
         public static void Update(IContext context, IProject project)
@@ -71,9 +69,7 @@ namespace DataAccessLayer
             command.Parameters.Add(new SqlParameter("Status", project.Status));
             command.Parameters.Add(new SqlParameter("GitHub_url", project.GitHub_url));
 
-            var adapter = new SqlDataAdapter(command);
-            var dataSet = new DataSet();
-            adapter.Fill(dataSet);
+            command.ExecuteNonQuery();
         }
 
         public static void Delete(IContext context, Guid id)
@@ -85,9 +81,7 @@ namespace DataAccessLayer
             SqlCommand command = new SqlCommand("delete from Project where id_project = @ProjectID");
             command.Parameters.Add(new SqlParameter("ProjectID", id));
 
-            var adapter = new SqlDataAdapter(command);
-            var dataSet = new DataSet();
-            adapter.Fill(dataSet);
+            command.ExecuteNonQuery();
         }
     }
 }
