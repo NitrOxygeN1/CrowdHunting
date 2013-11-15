@@ -10,7 +10,7 @@ CREATE TABLE User (
 
 CREATE TABLE Skills (
   id_skill GUID NOT NULL,
-  skill_name VARCHAR,
+  title VARCHAR,
   PRIMARY KEY  (id_skill)
 );
 

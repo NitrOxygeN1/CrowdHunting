@@ -151,6 +151,9 @@
     <Build Include="Schema Objects\Schemas\dbo\Tables\Role.table.sql">
       <SubType>Code</SubType>
     </Build>
+    <Build Include="Schema Objects\Schemas\dbo\Tables\Skill.table.sql">
+      <SubType>Code</SubType>
+    </Build>
   </ItemGroup>
   <ItemGroup>
     <NotInBuild Include="Schema Objects\Schemas\dbo\Tables\Membership.table.sql">

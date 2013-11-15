@@ -43,6 +43,7 @@
     <Compile Include="IContext.cs" />
     <Compile Include="IMembership.cs" />
     <Compile Include="IRole.cs" />
+    <Compile Include="ISkill.cs" />
     <Compile Include="ITask.cs" />
     <Compile Include="IProject.cs" />
     <Compile Include="IUser.cs" />
