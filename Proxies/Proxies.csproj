@@ -42,11 +42,14 @@
   <ItemGroup>
     <Compile Include="IContext.cs" />
     <Compile Include="IMembership.cs" />
+    <Compile Include="IProjectSkill.cs" />
     <Compile Include="IRole.cs" />
     <Compile Include="ISkill.cs" />
     <Compile Include="ITask.cs" />
     <Compile Include="IProject.cs" />
+    <Compile Include="ITaskSkill.cs" />
     <Compile Include="IUser.cs" />
+    <Compile Include="IUserSkill.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
