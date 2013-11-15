@@ -43,10 +43,12 @@
   <ItemGroup>
     <Compile Include="Context.cs" />
     <Compile Include="Entities\Project.cs" />
+    <Compile Include="Entities\Role.cs" />
     <Compile Include="Entities\Task.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="ProjectUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoleUtility.cs" />
     <Compile Include="TaskUtility.cs" />
     <Compile Include="UserUtility.cs" />
   </ItemGroup>
