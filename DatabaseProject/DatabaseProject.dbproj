@@ -145,5 +145,8 @@
     <Build Include="Schema Objects\Schemas\dbo\Tables\User.table.sql">
       <SubType>Code</SubType>
     </Build>
+    <Build Include="Schema Objects\Schemas\dbo\Tables\Task.table.sql">
+      <SubType>Code</SubType>
+    </Build>
   </ItemGroup>
 </Project>
