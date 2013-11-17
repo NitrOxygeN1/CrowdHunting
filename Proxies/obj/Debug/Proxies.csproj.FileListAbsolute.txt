@@ -7,3 +7,7 @@ C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\bin\Debug\Proxies.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\bin\Debug\Proxies.pdb
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\obj\Debug\Proxies.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\Proxies\obj\Debug\Proxies.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\Proxies\bin\Debug\Proxies.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\Proxies\bin\Debug\Proxies.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\Proxies\obj\Debug\Proxies.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\Proxies\obj\Debug\Proxies.pdb

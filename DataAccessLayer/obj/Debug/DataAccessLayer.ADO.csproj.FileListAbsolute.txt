@@ -12,3 +12,10 @@ C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.pdb
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.ADO.csprojResolveAssemblyReference.cache
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.ADO.csprojResolveAssemblyReference.cache
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\DataAccessLayer\bin\Debug\Proxies.pdb

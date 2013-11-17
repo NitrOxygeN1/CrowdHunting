@@ -12,3 +12,12 @@ C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\bin\Debug\Proxies.pdb
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\Proxies.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\Proxies.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\BusinessLayer\bin\Debug\DataAccessLayer.pdb

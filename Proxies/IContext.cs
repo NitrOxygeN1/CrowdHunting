@@ -8,7 +8,7 @@ namespace Proxies
     /// <summary>
     /// ?
     /// </summary>
-    public interface IContext
+    public interface IContext : IDisposable
     {
     }
 }

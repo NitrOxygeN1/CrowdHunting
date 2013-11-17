@@ -14,3 +14,11 @@ C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProje
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.deploymanifest
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.dbschema
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\DatabaseProject\obj\Debug\DatabaseProject.dbschema
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PreDeployment.sql
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Script.PostDeployment.sql
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlsettings
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqldeployment
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject_Database.sqlcmdvars
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.deploymanifest
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\sql\debug\DatabaseProject.dbschema
+C:\Development\Git\Crowd Hunting\CrowdHunting\DatabaseProject\obj\Debug\DatabaseProject.dbschema

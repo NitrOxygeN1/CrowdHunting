@@ -7,3 +7,14 @@ C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\bin\WebUI.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\bin\WebUI.pdb
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\obj\Debug\WebUI.dll
 C:\Users\NitrOxygeN\Desktop\CrowdHunting\WebUI\obj\Debug\WebUI.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\WebUI.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\WebUI.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\Proxies.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\Proxies.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\obj\Debug\WebUI.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\obj\Debug\WebUI.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\BusinessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\DataAccessLayer.dll
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\BusinessLayer.pdb
+C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\DataAccessLayer.pdb
