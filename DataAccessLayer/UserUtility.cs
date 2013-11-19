@@ -79,5 +79,32 @@ namespace DataAccessLayer
 
             command.ExecuteNonQuery();
         }
+
+        public static IUser GetByLogin(Context context, string login)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static bool AuthorizedByRole(Guid userId, Guid resourceId)
+        {
+            bool result = false;
+            using(Context ctx = new Context(""))
+            {
+                SqlCommand command = new SqlCommand("isAuthorizedByRole", ctx.Connection);
+                command.Parameters.Add(new SqlParameter("UserID", userId));
+                command.Parameters.Add(new SqlParameter("ResourceID", resourceId));
+                command.Parameters.Add(new SqlParameter("Result", SqlDbType.Bit, 32, ParameterDirection.Output,
+                    false, 0, 0, "", DataRowVersion.Default, result));
+                command.CommandType = CommandType.StoredProcedure;                
+
+                command.ExecuteNonQuery();
+                return (bool)command.Parameters["Result"].Value;
+            }
+        }
+
+        public static bool AuthorizedByInheritanceChain(Guid userId, Guid resourceId)
+        {
+            return true;
+        }
     }
 }

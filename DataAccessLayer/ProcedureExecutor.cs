@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BusinessLayer
+namespace DataAccessLayer
 {
-    public class Class1
+    public static class ProcedureExecutor
     {
     }
 }

@@ -18,3 +18,14 @@ C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\BusinessLayer.dll
 C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\DataAccessLayer.dll
 C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\BusinessLayer.pdb
 C:\Development\Git\Crowd Hunting\CrowdHunting\WebUI\bin\DataAccessLayer.pdb
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\WebUI.dll
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\WebUI.pdb
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\BusinessLayer.dll
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\Proxies.dll
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\DataAccessLayer.dll
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\BusinessLayer.pdb
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\Proxies.pdb
+Z:\CroudHunting\CrowdHunting-master\WebUI\bin\DataAccessLayer.pdb
+Z:\CroudHunting\CrowdHunting-master\WebUI\obj\Debug\ResolveAssemblyReference.cache
+Z:\CroudHunting\CrowdHunting-master\WebUI\obj\Debug\WebUI.dll
+Z:\CroudHunting\CrowdHunting-master\WebUI\obj\Debug\WebUI.pdb

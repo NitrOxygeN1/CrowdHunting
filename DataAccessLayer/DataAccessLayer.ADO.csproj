@@ -52,6 +52,7 @@
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\UserSkill.cs" />
     <Compile Include="MembershipUtility.cs" />
+    <Compile Include="ProcedureExecutor.cs" />
     <Compile Include="ProjectSkillUtility.cs" />
     <Compile Include="ProjectUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -13,7 +13,7 @@ namespace WebUI.Services
     public interface IUserService
     {
         [OperationContract]
-        IUser Get(string login, string password);
+        ServiceAnswer<string> Login(string login, string password);
 
         [OperationContract]
         IUser Get(Guid user_id);
