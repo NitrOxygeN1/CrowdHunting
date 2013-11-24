@@ -83,5 +83,40 @@ namespace DataAccessLayer
 
             command.ExecuteNonQuery();
         }
+
+        public static List<IProject> GetAll(IContext context)
+        {
+            Context ctx = context as Context;
+            if (ctx == null)
+                throw new Exception(typeof(Context).FullName + " expected.");
+            
+            SqlCommand command = new SqlCommand("select * from Project", ctx.Connection);
+            var adapter = new SqlDataAdapter(command);
+            var dataSet = new DataSet();
+
+            adapter.Fill(dataSet);
+            var dataTable = dataSet.Tables[0];
+
+            List<IProject> projects = new List<IProject>();
+
+            foreach (DataRow row in dataTable.Rows)
+            {
+                projects.Add(
+                    new Project 
+                    {
+                        ProjectID = Guid.Parse(row["id_project"].ToString()),
+                        Name = row["name"].ToString(),
+                        Description = row["description"].ToString(),
+                        Status = row["status"].ToString(),
+                        UserID = Guid.Parse(row["id_user"].ToString()),
+                        GitHub_url = row["github_url"].ToString(),
+                        Date_start = DateTime.Parse(row["date_start"].ToString()),
+                        Date_end = DateTime.Parse(row["date_end"].ToString())
+                    }
+                );
+            }
+
+            return projects;
+        }
     }
 }

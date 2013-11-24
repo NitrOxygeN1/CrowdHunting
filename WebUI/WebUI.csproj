@@ -59,6 +59,8 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Pages\UserList.aspx" />
+    <Content Include="Services\ProjectService.svc" />
+    <Content Include="Services\TaskService.svc" />
     <Content Include="Services\UserService.svc" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
@@ -130,7 +132,15 @@
       <DependentUpon>UserList.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IProjectService.cs" />
+    <Compile Include="Services\ITaskService.cs" />
     <Compile Include="Services\IUserService.cs" />
+    <Compile Include="Services\ProjectService.svc.cs">
+      <DependentUpon>ProjectService.svc</DependentUpon>
+    </Compile>
+    <Compile Include="Services\TaskService.svc.cs">
+      <DependentUpon>TaskService.svc</DependentUpon>
+    </Compile>
     <Compile Include="Services\UserService.svc.cs">
       <DependentUpon>UserService.svc</DependentUpon>
     </Compile>

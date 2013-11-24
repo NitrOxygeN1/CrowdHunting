@@ -10,6 +10,7 @@ namespace Proxies
         Ok = 0,
         NotAuthenticated,
         NotAuthorized,
-        ExceptionOccured
+        ExceptionOccured,
+        NotFound
     }
 }
