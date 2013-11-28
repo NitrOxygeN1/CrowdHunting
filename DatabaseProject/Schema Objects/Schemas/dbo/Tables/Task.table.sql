@@ -4,5 +4,6 @@
   task_description VARCHAR,
   github_id INT,
   karma INT,
+  id_project GUID,
   PRIMARY KEY  (id_task)
 );
