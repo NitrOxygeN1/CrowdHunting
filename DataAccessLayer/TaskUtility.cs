@@ -76,5 +76,41 @@ namespace DataAccessLayer
 
             command.ExecuteNonQuery();
         }
+
+        public static List<ITask> GetAllProjectTasks(IContext context, Guid project_id)
+        {
+            Context ctx = context as Context;
+            if (ctx == null)
+                throw new Exception(typeof(Context).FullName + " expected.");
+
+            SqlCommand command = new SqlCommand("select * from task where id_project=@project_id", ctx.Connection);
+            command.Parameters.Add(new SqlParameter("project_id", project_id));
+
+            var adapter = new SqlDataAdapter(command);
+            var dataSet = new DataSet();
+            adapter.Fill(dataSet);
+
+            var table = dataSet.Tables[0];
+
+            List<ITask> tasks = new List<ITask>();
+
+            foreach (DataRow row in table.Rows)
+            {
+                tasks.Add
+                (
+                    new Task 
+                    {
+                        TaskID = Guid.Parse(row["id_task"].ToString()),
+                        ProjectID = Guid.Parse(row["id_project"].ToString()),
+                        Task_title = row["task_title"].ToString(),
+                        Task_description = row["task_description"].ToString(),
+                        GitHub_id = int.Parse(row["github_id"].ToString()),
+                        Karma = int.Parse(row["karma"].ToString())
+                    }
+                );
+            }
+
+            return tasks;
+        }
     }
 }

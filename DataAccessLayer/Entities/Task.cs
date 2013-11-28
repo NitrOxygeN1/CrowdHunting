@@ -9,6 +9,7 @@ namespace DataAccessLayer.Entities
     public class Task : ITask
     {
         public Guid TaskID { get; set; }
+        public Guid ProjectID { get; set; }
         public string Task_title { get; set; }
         public string Task_description { get; set; }
         public int GitHub_id { get; set; }

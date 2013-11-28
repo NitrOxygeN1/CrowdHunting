@@ -37,7 +37,14 @@ namespace BusinessLayer
 
         public static List<ITask> GetAllProjectTask(Guid project_id)
         {
-            return null;
+            List<ITask> projectTasks = null;
+            if (project_id == null)
+                return projectTasks;
+            using (Context ctx = new Context(""))
+            {
+                projectTasks = TaskUtility.GetAllProjectTasks(ctx, project_id);
+            }
+            return projectTasks;
         }
 
         public static List<ITask> GetAllUserTask(Guid user_id)

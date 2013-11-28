@@ -14,5 +14,7 @@ namespace WebUI.Services
     {
         [OperationContract]
         ServiceAnswer<ITask> Get(Guid task_id);
+        [OperationContract]
+        ServiceAnswer<List<ITask>> GetAllProjectTasks(Guid project_id);
     }
 }
